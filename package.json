@@ -1,0 +1,11 @@
+{
+  "name": "constants",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yudaprama/constants.git",
+  "author": "Yuda Parma",
+  "license": "MIT",
+	"peerDependencies": {
+		"react-native": ">=0.50.0"
+	}
+}
